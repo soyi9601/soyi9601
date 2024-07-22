@@ -2,11 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=4EF7DF&width=435&lines=Welcome+to+Soi's+GitHub+%F0%9F%99%8C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=F7E024&width=435&lines=Give+me+some+feedback+%F0%9F%91%8D)](https://git.io/typing-svg)
 
-- 피드백을 주시면 수용하고 발전할거예요 👍
+- ## 피드백을 주시면 수용하고 발전할거예요
 
+## 🛠 보유 스킬
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyi9601&layout=compact)
-
-### 🛠 보유 스킬
 
 <img src="https://img.shields.io/badge/JAVA-4C7491?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <br>
